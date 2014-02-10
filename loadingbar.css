@@ -115,8 +115,9 @@
 
 #loadingbar.done-up {
 	left: 0px;
-	top: 0%;
+	top: 0px;
 	width: 2px;
+	bottom: 0px;
 	height: 101%;
 }
 
